@@ -1,4 +1,4 @@
-package com.mandala.fuyou.activity.preuniversity;
+﻿package com.mandala.fuyou.activity.preuniversity;
 
 import android.app.Activity;
 import android.content.Context;
@@ -22,7 +22,6 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 
 /**
- * Created by ludeyuan on 16/8/2.
  * 孕妇讲堂上的横幅
  */
 public class SpecialHeaderView extends LinearLayout {

@@ -1,4 +1,4 @@
-package com.mandala.fuyou.activity.preuniversity;
+﻿package com.mandala.fuyou.activity.preuniversity;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -32,7 +32,6 @@ import butterknife.OnClick;
 import ldy.com.baserecyclerview.refresh.PullToRefreshLayout;
 
 /**
- * Created by ludeyuan on 16/6/25.
  * 孕妇讲堂
  */
 public class PregnantForumActivity extends BaseToolBarActivity implements PregnantForumListener
